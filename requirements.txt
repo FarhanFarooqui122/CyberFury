@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+pillow
+plotly
+accelerate
+huggingface_hub
