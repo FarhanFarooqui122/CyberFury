@@ -5,34 +5,34 @@ CyberFury is an intelligent deepfake detection system designed to identify AI-ge
 
 #🚀 Key Highlights
 
-🧠 Deep learning–based image classification
+- 🧠 Deep learning–based image classification
 
-🔍 Detects AI-generated and manipulated images
+- 🔍 Detects AI-generated and manipulated images
 
-⚡ Real-time inference through a web interface
+- ⚡ Real-time inference through a web interface
 
-🎯 High accuracy with large-scale training data
+- 🎯 High accuracy with large-scale training data
 
-🛡️ Focused on cybersecurity and digital trust
+- 🛡️ Focused on cybersecurity and digital trust
 
 ---
 
 #💡 Use Cases
 
-Fake image & media verification
+- Fake image & media verification
 
-Cybercrime and fraud detection
+- Cybercrime and fraud detection
 
-Social media content moderation
+- Social media content moderation
 
-Academic research & AI experimentation
+- Academic research & AI experimentation
 
 ---
 
 #🧠 Model
 Organika/sdxl-detector
 
-A pretrained image classification model designed to identify synthetic diffusion-generated images by analyzing pixel-level distribution patterns.
+- A pretrained image classification model designed to identify synthetic diffusion-generated images by analyzing pixel-level distribution patterns.
 
 ---
 
@@ -71,6 +71,6 @@ A pretrained image classification model designed to identify synthetic diffusion
 
   ## ⚠️ Disclaimer
 
-CyberFury is a **forensic assistance tool**, not a legal authority.  
+- CyberFury is a **forensic assistance tool**, not a legal authority.  
 Results should be interpreted alongside human expertise and additional forensic evidence.
 
